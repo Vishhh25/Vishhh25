@@ -6,6 +6,10 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=AI-Driven+Geospatial+Analytics;Time+Series+%26+Financial+Data+Modeling;Satellite+Imagery+Processing+with+Deep+Learning;Disease+Prediction+using+ML;Robust+AI+for+Smart+Decision+Making;Exploring+the+Intersection+of+AI+%26+Data+Science)](https://git.io/typing-svg)
+
+---
+
 ## 🌟 About Me
 
 - 🛰️ Passionate about Remote Sensing, Geospatial Data Science, and AI-driven Earth Observation.
