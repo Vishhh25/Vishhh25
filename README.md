@@ -2,9 +2,10 @@
 
 🚀 **AI | Machine Learning | Remote Sensing | Geospatial Analytics | Time Series Analysis**
 <p align="center">
-  <img src="
-https://github.com/Vishhh25/Vishhh25/blob/main/ec6552b9-6e5a-4ca4-aa04-a1160c81d3ff.webp" alt="AI Researcher Working on Geospatial Data" width="800px">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishhh25/Vishhh25/main/ec6552b9-6e5a-4ca4-aa04-a1160c81d3ff.webp" alt="AI Researcher Working on Geospatial Data" width="800px">
 </p>
+
 
 https://github.com/Vishhh25/Vishhh25/blob/main/ec6552b9-6e5a-4ca4-aa04-a1160c81d3ff.webp
 
