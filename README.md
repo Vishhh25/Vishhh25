@@ -3,7 +3,7 @@
 🚀 **AI | Machine Learning | Remote Sensing | Geospatial Analytics | Time Series Analysis**
 <p align="center">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vishhh25/Vishhh25/main/ec6552b9-6e5a-4ca4-aa04-a1160c81d3ff.webp" alt="AI Researcher Working on Geospatial Data" width="800px">
+  <img src="https://raw.githubusercontent.com/Vishhh25/Vishhh25/main/ec6552b9-6e5a-4ca4-aa04-a1160c81d3ff.webp" alt="AI Researcher Working on Machine Learning" width="800px">
 </p>
 
 
@@ -18,7 +18,7 @@ https://github.com/Vishhh25/Vishhh25/blob/main/ec6552b9-6e5a-4ca4-aa04-a1160c81d
 
 ## 🌟 About Me
 
-- 🛰️ Passionate about Remote Sensing, Geospatial Data Science, and AI-driven Earth Observation.
+- 🛰️ Passionate about Machine Learning, Data Science, and AI-driven Earth Observation.
 - 📊 Specialized in Satellite Imagery Processing, GIS, and AI-based feature extraction.
 - 🏥 Developing AI-based Disease Prediction Models for healthcare analytics.
 - 📈 Expert in Time Series Analysis for financial, environmental, and health applications.
